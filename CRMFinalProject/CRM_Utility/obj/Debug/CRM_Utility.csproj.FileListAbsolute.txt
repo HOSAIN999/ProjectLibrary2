@@ -1,0 +1,12 @@
+C:\Users\arman\Desktop\CRNFinalProject\CRM_Utility\bin\Debug\CRM_Utility.dll
+C:\Users\arman\Desktop\CRNFinalProject\CRM_Utility\bin\Debug\CRM_Utility.pdb
+C:\Users\arman\Desktop\CRNFinalProject\CRM_Utility\obj\Debug\CRM_Utility.csproj.AssemblyReference.cache
+C:\Users\arman\Desktop\CRNFinalProject\CRM_Utility\obj\Debug\CRM_Utility.csproj.CoreCompileInputs.cache
+C:\Users\arman\Desktop\CRNFinalProject\CRM_Utility\obj\Debug\CRM_Utility.dll
+C:\Users\arman\Desktop\CRNFinalProject\CRM_Utility\obj\Debug\CRM_Utility.pdb
+D:\CRNFinalProject\CRM_Utility\bin\Debug\CRM_Utility.dll
+D:\CRNFinalProject\CRM_Utility\bin\Debug\CRM_Utility.pdb
+D:\CRNFinalProject\CRM_Utility\obj\Debug\CRM_Utility.csproj.AssemblyReference.cache
+D:\CRNFinalProject\CRM_Utility\obj\Debug\CRM_Utility.csproj.CoreCompileInputs.cache
+D:\CRNFinalProject\CRM_Utility\obj\Debug\CRM_Utility.dll
+D:\CRNFinalProject\CRM_Utility\obj\Debug\CRM_Utility.pdb
